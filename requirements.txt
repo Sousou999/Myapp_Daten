@@ -1,4 +1,4 @@
 pandas==2.0.3
 Requests==2.31.0
 streamlit==1.32.2
-~treamlit==1.31.1
+streamlit==1.31.1
