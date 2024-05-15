@@ -37,7 +37,7 @@ def main():
 
     # Check if user has entered a username
     if 'username' not in st.session_state:
-        st.title("Willkommen bei FoodisGood")
+        st.title("🍳 Willkommen bei FoodisGood")
         username = st.text_input("Bitte gib deinen Benutzernamen ein:")
         if username:
             st.session_state.username = username
