@@ -31,6 +31,7 @@ Neue Funktionalitäten:
 Neue Funktionalitäten:
 
 - Persönliche Begrüßung mit Benutzernamen beim Start der App
+- Kurze Einführung über die App
 - Möglichkeit für Benutzer, eigene Rezepte hinzuzufügen
 - Funktion zum Löschen eigener Rezepte
 - Automatische Aktualisierung der Rezeptdatenbank und Benutzerfreundlichkeit durch Datenverwaltungsfunktionen
