@@ -145,7 +145,7 @@ def main():
 
         elif selected_tab == "Über die App":
             st.markdown("""
-            ## Über die FoodisGood App
+            ## Über die FoodisGood App 🌟
 
             Die FoodisGood App bietet eine Vielzahl von Frühstücksrezepten, die dir helfen sollen, deinen Tag gesund und lecker zu beginnen. 
             Du kannst neue Rezepte hinzufügen, bestehende Rezepte anzeigen und sogar Rezepte löschen, die du nicht mehr benötigst.
