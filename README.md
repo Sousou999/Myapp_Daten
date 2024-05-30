@@ -18,8 +18,8 @@ FoodisGood ist eine interaktive Plattform, die darauf abzielt, die Zubereitung v
 
 **Entwickelt von FoodisGood 🍳 Genieße deine Mahlzeiten und dein Studium! 😊**
 
-## Persona 1 + 2
-<img src="Persona's" alt="persona" style="width:200px;"/>
+## Persona 1
+<img src="Persona's/Persona1.pdf" alt="persona" style="width:200px;"/>
 
 ## Wireframes
 <img src="Wireframe/Wireframes.pdf" alt="wireframes" style="width:200px;"/>
