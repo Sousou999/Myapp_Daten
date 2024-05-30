@@ -27,6 +27,6 @@ FoodisGood ist eine interaktive Plattform, die darauf abzielt, die Zubereitung v
 ## Wireframes
 <img src="Wireframes.pdf" alt="wireframes" style="width:200px;"/>
 
-## Wireframes-Nutzertest
+## Nutzertest vor der App Entwicklung
 <img src="Nutzertest FoodisGood.pdf" alt="Nutzertest" style="width:200px;"/>
 
