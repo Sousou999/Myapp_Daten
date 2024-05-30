@@ -21,7 +21,7 @@ FoodisGood ist eine interaktive Plattform, die darauf abzielt, die Zubereitung v
 ## Persona 1
 <img src="Persona's/Persona1.pdf" alt="persona" style="width:200px;"/>
 
-## Persona 
+## Persona 2
 <img src="Persona's/Persona2.pdf" alt="persona" style="width:200px;"/>
 
 ## Wireframes
