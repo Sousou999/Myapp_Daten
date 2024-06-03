@@ -16,7 +16,7 @@ FoodisGood ist eine interaktive Plattform, die darauf abzielt, die Zubereitung v
 
 - **Benutzerinteraktion:** Beim ersten Start der App wird der Benutzer aufgefordert, einen Benutzernamen einzugeben, der dann gespeichert wird, um eine personalisierte Begrüßung bei zukünftigen Besuchen zu ermöglichen.
 
-**Entwickelt von FoodisGood 🍳 Genieße deine Mahlzeiten und dein Studium! 😊**
+**Entwickelt von FoodisGood 🍳 Geniesse deine Mahlzeiten und dein Studium! 😊**
 
 ## Persona 1
 <img src="Persona's/Persona1.pdf" alt="Persona 1" style="width:200px;"/>
@@ -31,4 +31,4 @@ FoodisGood ist eine interaktive Plattform, die darauf abzielt, die Zubereitung v
 <img src="Nutzerteste/Nutzertest-vor-App-Entwicklung.pdf" alt="Nutzertest" style="width:200px;"/>
 
 ## Nutzertest nach der App Entwicklung
-<img src="Nutzerteste/Nutzertest-nach-App-Entwicklung.pdf" alt="Nutzertest" style="width:200px;"/>
+<img src="Nutzerteste/Nutzertest-nacg-App-Entwicklung.pdf" alt="Nutzertest" style="width:200px;"/>
