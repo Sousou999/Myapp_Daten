@@ -1,4 +1,4 @@
-# Reflexion
+# Reflexion 🧠 
 
 Zu Beginn war uns klar, dass wir gemeinsam eine App entwickeln wollten. Nach einigen Überlegungen kamen wir schnell auf die Idee, eine App mit Frühstücksrezepten zu erstellen, da Studierende im Allgemeinen wenig Zeit haben. Dadurch konnten wir die Aufgaben untereinander aufteilen und festlegen, an welchem Laptop gearbeitet werden sollte. Die Erstellung von Personas und Wireframes half uns, unsere Vorstellungen für die App visuell darzustellen. Wir haben uns hierbei viel Mühe gegeben, um den späteren Entwicklungsprozess zu erleichtern.
 
