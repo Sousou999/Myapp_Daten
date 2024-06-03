@@ -8,13 +8,13 @@ FoodisGood ist eine interaktive Plattform, die darauf abzielt, die Zubereitung v
   - Hinzufügen eigener Rezepte mit Zutatenliste, Anleitung und Bild-URL.
   - Löschen unerwünschter Rezepte.
 
-- **Einkaufsliste:** Unter jedem Rezept befindet sich eine Einkaufsliste, um die benötigten Zutaten zu verfolgen und abzuhaken.
+- **Einkaufsliste:** Unter jedem Rezept befindet sich eine Einkaufsliste, um die benötigten Zutaten zu verfolgen und abzuhaken 🛒 .
 
-- **Nahrungsergänzungsmittel:** In der Seitenleiste werden wichtige Nahrungsergänzungsmittel mit kurzen Beschreibungen und Produktempfehlungen aufgeführt.
+- **Nahrungsergänzungsmittel:** In der Seitenleiste werden wichtige Nahrungsergänzungsmittel mit kurzen Beschreibungen und Produktempfehlungen aufgeführt 💊.
 
-- **Emoji-Überraschung:** Benutzer können eine zufällige Emoji-Überraschung zum Thema Frühstück entdecken.
+- **Emoji-Überraschung:** Benutzer können eine zufällige Emoji-Überraschung zum Thema Frühstück entdecken 🎉.
 
-- **Benutzerinteraktion:** Beim ersten Start der App wird der Benutzer aufgefordert, einen Benutzernamen einzugeben, der dann gespeichert wird, um eine personalisierte Begrüßung bei zukünftigen Besuchen zu ermöglichen.
+- **Benutzerinteraktion:** Beim ersten Start der App wird der Benutzer aufgefordert, einen Benutzernamen einzugeben, der dann gespeichert wird, um eine personalisierte Begrüßung bei zukünftigen Besuchen zu ermöglichen 🙋.
 
 **Entwickelt von FoodisGood 🍳 Geniesse deine Mahlzeiten und dein Studium! 😊**
 
