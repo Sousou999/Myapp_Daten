@@ -1,4 +1,4 @@
-# FoodisGood
+# FoodisGood 🍽️
 
 FoodisGood ist eine interaktive Plattform, die darauf abzielt, die Zubereitung von Frühstück für Studenten zu vereinfachen und gleichzeitig wichtige Informationen über Nahrungsergänzungsmittel bereitzustellen. Hier sind die Hauptfunktionen der App:
 
