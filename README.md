@@ -2,7 +2,7 @@
 
 FoodisGood ist eine interaktive Plattform, die darauf abzielt, die Zubereitung von Frühstück für Studenten zu vereinfachen und gleichzeitig wichtige Informationen über Nahrungsergänzungsmittel bereitzustellen. Hier sind die Hauptfunktionen der App:
 
-- **Frühstücksrezeptverwaltung:** Durchsuchen, Anzeigen, Hinzufügen und Löschen von Frühstücksrezepten.
+- **Frühstücksrezeptverwaltung:** Durchsuchen, Anzeigen, Hinzufügen und Löschen von Frühstücksrezepten📒.
   - Suche nach bestimmten Rezepten.
   - Anzeigen von Zutaten, Anleitung, Schwierigkeitsgrad und Dauer jedes Rezepts.
   - Hinzufügen eigener Rezepte mit Zutatenliste, Anleitung und Bild-URL.
