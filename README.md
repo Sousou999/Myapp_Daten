@@ -34,5 +34,6 @@ FoodisGood ist eine interaktive Plattform, die darauf abzielt, die Zubereitung v
 <img src="Nutzerteste/Nutzertest-nach-App-Entwicklung.pdf" alt="Nutzertest" style="width:200px;"/>
 
 ## Reflexion
-<img src="Refelxion/Reflexion.pdf" alt="Reflexion" style="width:200px;"/>
+<img src="Reflexion & Learnings.md" alt="Reflexion" style="width:200px;"/>
+
 
