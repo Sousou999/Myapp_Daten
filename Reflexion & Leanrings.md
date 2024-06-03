@@ -12,6 +12,6 @@ Unserer Meinung nach sollte der Informatikanteil freiwillig sein oder zumindest 
 
 Trotzdem fanden wir das Fach sehr interessant und spannend. Es war faszinierend zu sehen, wie der gesamte Entwicklungsprozess abläuft. Besonders beeindruckend war es, die Anwendung von Tools wie Python, Visual Studio Code und Streamlit kennenzulernen und zu verstehen, wie man Codes schreibt.
 
-ChatGPT war auch eine große Hilfe für uns. Ohne diese Unterstützung hätte alles viel mehr Zeit in Anspruch genommen. Dank ChatGPT konnten wir effizienter arbeiten und uns gleichzeitig auch auf andere Aufgaben konzentrieren. Das fanden wir sehr positiv 😊**.
+ChatGPT war auch eine große Hilfe für uns. Ohne diese Unterstützung hätte alles viel mehr Zeit in Anspruch genommen. Dank ChatGPT konnten wir effizienter arbeiten und uns gleichzeitig auch auf andere Aufgaben konzentrieren. Das fanden wir sehr positiv😊*.
 
 
